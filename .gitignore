@@ -1,0 +1,11 @@
+*.csv
+
+__pycache__/
+
+.env
+
+.venv/
+
+private/
+
+.vscode/
